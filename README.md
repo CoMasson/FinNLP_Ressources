@@ -2,25 +2,18 @@
 All my sources, interesting papers &amp; people to follow about NLP &amp; Finance.
 
 ## NLP Workshops on Economics & Finance 
-### LREC
-#### FNP
-##### 2018
-The First Financial Narrative Processing Workshop
+#### FNP : Financial Narrative Processing Workshop
+##### 2018 : 
   http://lrec-conf.org/workshops/lrec2018/W27/pdf/book_of_proceedings.pdf
 
-### IJCAI
-#### FINLP
+#### FINLP : Financial Technology and Natural Language Processing Workshop
 ##### 2019
-The First Workshop on Financial Technology and Natural Language Processing
   https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp/home
 
-### ACL
-#### ECONLP
+#### ECONLP : Economics and Natural Language Processing Workshop
 ##### 2019
-2nd Workshop on Economics and Natural Language Processing (2019)
   https://www.aclweb.org/portal/content/econlp-2019-2nd-workshop-economics-and-natural-language-processing
 ##### 2018
-1st Workshop on Economics and Natural Language Processing (2018)
   https://www.aclweb.org/portal/content/econlp-2018-1st-workshop-economics-and-natural-language-processing-acl-2018
 
 
