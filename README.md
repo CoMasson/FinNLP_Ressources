@@ -3,7 +3,7 @@ All my sources, interesting papers &amp; people to follow about NLP &amp; Financ
 
 ## NLP Workshops on Economics & Finance 
 #### FNP : Financial Narrative Processing Workshop
-##### 2018 : 
+##### 2018
   http://lrec-conf.org/workshops/lrec2018/W27/pdf/book_of_proceedings.pdf
 
 #### FINLP : Financial Technology and Natural Language Processing Workshop
