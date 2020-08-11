@@ -40,3 +40,10 @@ Manel Zarrouk +
 
 ## Segmentation de documents
 Olivier Ferret
+
+## Language and translation technology team - Ghent University
+https://research.flw.ugent.be/en/projects/sentivent-event-extraction-and-sentiment-analysis-financial-applications
+
+Gilles Jacobs +++
+
+  https://www.lt3.ugent.be/people/gilles-jacobs/
